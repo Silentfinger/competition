@@ -1,0 +1,186 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.all{
+    background-image:url(images/fist\ background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 125vh;
+}
+.joke{
+    background-image: url(images/nikeaair.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin-left: 270px;
+    margin-top: 90px;
+    
+}
+.nav{
+    color: white;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+.nav-link{
+    margin-left: 40px;
+}
+.order{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+    padding-left: 100px;
+    border-radius: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: red;
+    color: white;
+}
+.nike{
+    color:white;
+    margin-right: 41%;
+    font-weight: bolder;
+    margin-top: 130px;
+    font-size: 20px;
+    text-align: center;
+}
+.paid{
+    padding-right: 70%;
+    width: 120%;
+    margin-right: 100px;
+}
+.dad{
+    margin-top: 130px;
+    width: 40%;
+}
+.bod{
+    background-color: pink;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+}
+.move{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+}
+.bext{
+    margin-top: 90px;
+}
+.too{
+     background-image: url(images/second\ background.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 310vh;
+}
+.mol{
+    margin-top: 90px;
+}
+.how{
+    background-color: gray;
+    border-radius: 20px;
+    width: 400px;
+}
+.org{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 75px;
+    padding-left:75px;
+    border-radius: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+}
+.finish{
+    background-color: black;
+    width: 100%;
+    height: 50vh;
+}
+.about{
+    margin-left: 600px;
+}
+.abou{
+    margin-left: 1000px;
+}
+.king{
+    margin-left: 785px;
+}
+.po{
+    background-image: url(images/about\ first\ background\ image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.login{
+    padding-left: 130px;
+    padding-top: 13px;
+    padding-right: 130px;
+    padding-bottom: 13px;
+    border-radius: 20px;
+    border: 1px solid white;
+    color: white;
+    background-color: red;
+}
+.text{
+    padding-left: 70px;
+    padding-top: 13px;
+    padding-right: 70px;
+    padding-bottom: 13px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    color: gray;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.password{
+    padding-left: 70px;
+    padding-top: 13px;
+    padding-right: 70px;
+    padding-bottom: 13px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    color: gray;
+}
+.point{
+    background-color: purple;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    margin-right:430px ;
+    margin-left: 430px;
+    height: 70vh;
+    border-radius: 25px;
+}
+.box{
+    color: white;
+    font-weight: bolder;
+}
+.pass{
+    color: white;
+    margin-left: 80px;
+}
+.net{
+    color: white;
+    font-weight: bolder;
+}
+.mop{
+  padding-left:143px;
+}
+.mi{
+    margin-left: 40px;
+}
+.leave{
+    color: white;
+}
+.hgh{
+    margin-left: 80px;
+}

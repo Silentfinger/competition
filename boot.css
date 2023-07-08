@@ -1,0 +1,13 @@
+*{
+    max-width: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.po{
+    background-image: url(images/about\ first\ background\ image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+
+}
